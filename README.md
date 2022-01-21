@@ -13,7 +13,9 @@ One of the biggest challenges in the analysis portion was reconfiguring the COUN
 
 ## Results 
 Through my analysis of the Kickstarter data, I discovered that the best time to launch funding campaigns is in May . The chart (Theatre Outcome vs. Launch) clearly shows that successful campaigns were launched in May, and the success rate trails off by June. Furthermore, this chart also demonstrates that September through December are the last favourable months to launch, with December faring the worst in both failed and successful campaigns.
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/93993921/150566855-9ab435a0-01fe-46f3-94e3-92113a6cea9f.png)
 
 It appears that campaigns with smaller goal budgets tend to be funded successfully, though there are instances where goals of $35,000 to $45,000 have been met. While there are no cancelled campaigns, indicating that plays are well liked among theatre backers, failed campaigns tend to increase with higher goals. 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/93993921/150566821-b6ca3374-e6ec-4772-ac4e-ef1c831e5939.png)
 
 There are some limitations in the data set however. First, some plays appear to be in languages other than English. For instance, Los Tradicionales is in Spanish, but it is not noted anywhere. A separate column for language would have gleaned more insight. Lastly, genre of plays might be a valuable piece of information to have, especially when we know that certain genres tend to perform better than others, and perhaps that can be attributed to launch dates or funding goals. 
